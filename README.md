@@ -1,4 +1,4 @@
-<p align="center"><img src="./assets/images/svg/BeAcademy_logo.svg"/></p>
+<p align="center"><img src="./assets/img/svg/BeAcademy_logo.svg"/></p>
 
 # Be.academy - Lista de contatos C.R.U.D.
 > PHP
