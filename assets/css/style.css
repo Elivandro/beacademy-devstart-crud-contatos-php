@@ -13,6 +13,9 @@ body{
 .nav-menu ul li:first-child{
     margin-left: 0px;
 }
+.nav-menu ul li:only-child{
+    margin-right: 32px;
+}
 .modal-body img{
     width: 100%;
     margin: 0px auto;

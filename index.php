@@ -29,6 +29,7 @@
         "/relatorio" => relatorios(),
         "/editar" => editar(),
         "/excluir" => excluir(),
+        "/logout" => Logout(),
         default => error404(),
 
     };
