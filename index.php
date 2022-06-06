@@ -6,8 +6,8 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Minha lista de contatos</title>
         <meta name="author" content="Elivandro Silva"/>
-        <meta name="keywords" content="php, tabela, produtos, html, bootstrap, php"/>
-        <meta name="description" content="Tabela de produtos com html, bootstrap e php"/>
+        <meta name="keywords" content="php, tabela, contatos, html, bootstrap, php"/>
+        <meta name="description" content="lista de contatos com html, bootstrap e php"/>
         <!-- CSS only -->
         <link href="./assets/css/style.css" rel="stylesheet">
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
@@ -29,7 +29,7 @@
         "/relatorio" => relatorios(),
         "/editar" => editar(),
         "/excluir" => excluir(),
-        "/logout" => Logout(),
+        "/logout" => logout(),
         default => error404(),
 
     };
