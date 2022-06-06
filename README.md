@@ -4,6 +4,10 @@
 
 ### projeto em php para colocar em dia o aprendizado na lingaguem de php.
 
+<p align="center"><img src="./crud.gif"/></p>
+
+
+
 <br/>
 
 > PHP
